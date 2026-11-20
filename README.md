@@ -16,6 +16,7 @@ Goal: Visualise the linear relationship between X and Y and confirm it with a fi
 R (≥ 4.0) or RStudio
 
 No external packages required — everything uses base R graphics (plot(), abline(), lm()).
+
 Optional (for nicer plots):
 ```
 install.packages("ggplot2")
