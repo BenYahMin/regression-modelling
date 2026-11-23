@@ -29,4 +29,5 @@ git clone https://github.com/BenYahMin/regression-modelling.git
 cd regression-modelling
 ```
 Run the script.R and run the code in it.
+
 The scatterplot with the superimposed regression line is displayed
